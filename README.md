@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhilash github username @Abhilash102
-- 👀 I’m interested in Javascript Projects which includes frameworks like React, Angular, Vue, and for backend Node Js and Laravel.
-- 🌱 I’m currently learning the React JS.
-- 💞️ I’m looking to collaborate on projects which includes the best use of logics and by working on which i can enhance my coding skills.
-- 📫 you can mail me at as290196.abhilash@gmail.com.
+- 👀 I’m interested in creating a Highly scalable distributed project which includes the best use of development Technology and Methodologies.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on projects which are highly scalable.
+- 📫 you can mail me at abhilash.sran@gmail.com.
 
 Thank You very much. 
 Looking forward to collaborate.
